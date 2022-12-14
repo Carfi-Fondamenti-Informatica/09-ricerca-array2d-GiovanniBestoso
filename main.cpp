@@ -1,6 +1,5 @@
 #include <iostream>
 #include "lib.h"
-
 using namespace std;
 
 int main(){
@@ -12,7 +11,7 @@ int main(){
     }
   }
   for (int s = 0; s < 20; s++) {
-    nome[x] = ' ';
+    nome[s] = ' ';
   }
   for (int x = 0; x < 10; x++) {
     cin >> lista[x];
