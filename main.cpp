@@ -11,7 +11,7 @@ int main(){
       lista[x][y] = ' ';
     }
   }
-  for (int x = 0; x < 20; x++) {
+  for (int s = 0; s < 20; s++) {
     nome[x] = ' ';
   }
   for (int x = 0; x < 10; x++) {
